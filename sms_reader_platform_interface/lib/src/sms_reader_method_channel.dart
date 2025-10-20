@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:flutter/services.dart';
+
 import '../sms_reader_platform_interface.dart';
 
 const MethodChannel _kMethodChannel = MethodChannel('sms_reader_method');
